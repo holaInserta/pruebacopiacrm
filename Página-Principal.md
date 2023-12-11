@@ -12,6 +12,7 @@ Nuestros valores son:
 - Colaboración y trabajo en red con agentes públicos y privados
 - Innovación para dar solución a los problemas sociales
 
+![image.png](/.attachments/image-b993eed9-6e89-4948-a1fc-990a128c0228.png)
 
 INSERTA ANDALUCÍA, dispone de un mapa de sistemas de información, compuesto por infraestructuras, comunicaciones y diversas aplicaciones informáticas Este inventario de aplicaciones y herramientas, es el resultado de ir dando soluciones a necesidades concretas, y ha sido diseñado y construido de forma continua durante los últimos años.
 
