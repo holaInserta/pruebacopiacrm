@@ -10,7 +10,7 @@
 - #13387 - (Customer Insights)
 - #13189
 
-### 2 - Capacidad de Gestión eficaz de Leads, Socios, Donantes y Financiadores (Preliminar)
+### 2 - Capacidad de gestión eficaz de Leads, Socios, Donantes y Financiadores (Preliminar)
 ****
 - #13500
 - #13501
@@ -18,14 +18,14 @@
 - #13503
 - #13504
 
-### 3 - Capacidad de gestión de oportunidades, proyectos, y personalización de ofertas (Preliminar)
+### 3 - Capacidad de gestión eficaz de oportunidades, proyectos, y personalización de ofertas (Preliminar)
 ****
 
 - #13492
 - #13515
 
 
-### 4 - Capacidad de gestión de eventos y personalización de campañas (Preliminar)
+### 4 - Capacidad de gestión eficaz de eventos y personalización de campañas (Preliminar)
 ****
 
 - #13561
