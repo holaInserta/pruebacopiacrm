@@ -35,4 +35,10 @@
 ****
 Documentación a aportar por parte de Inserta:
 
-
+Tareas de Daniel
+- #13508, #13521 --> Se pueden trabajar en conjunto
+- #13525
+- #13529
+Tareas de Francisco
+- #13512
+- #13517
