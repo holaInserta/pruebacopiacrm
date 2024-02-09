@@ -14,6 +14,11 @@ Dataverse utiliza seguridad basada en roles para agrupar una colección de privi
 
 Un concepto clave de seguridad de Dataverse que se debe comprender es que los privilegios se acumulan y los mayores privilegios de acceso se aplican a un usuario con múltiples roles de seguridad. Por ejemplo, si un usuario tiene dos roles de seguridad, uno con privilegios de eliminación pero sin privilegios de escritura y el otro con privilegios de escritura pero sin privilegios de eliminación, el usuario podrá leer y escribir en el entorno.
 
+# Equipos.
+Los equipos son otro componente importante de la seguridad. Los equipos son propiedad de una Unidad de Negocio. Cada Unidad de Negocio tiene un equipo predeterminado que se crea automáticamente cuando se crea la Unidad de Negocio. Dataverse administra los miembros del equipo predeterminado y siempre contienen todos los usuarios asociados con esa unidad de negocios.
+
+No puede agregar ni eliminar miembros manualmente del equipo predeterminado; el sistema los ajusta dinámicamente a medida que los nuevos usuarios se asocian o desasocian con las unidades de negocios. Hay tres tipos de equipos: equipos propietarios, equipos de acceso y equipos de grupo de Azure AD.
+
 # Seguridad a nivel de columna para controlar el acceso.
 Los permisos a nivel de columna se otorgan a nivel de tabla, pero es posible que tenga ciertas columnas asociadas con una tabla que contenga datos que sean más confidenciales que las otras columnas. Para estas situaciones, se utiliza la seguridad a nivel de columna para controlar el acceso a columnas específicas.
 
