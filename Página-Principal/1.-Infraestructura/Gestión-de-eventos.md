@@ -1,0 +1,54 @@
+
+
+Al crear un nuevo evento, tiene un bpf por defecto asociado. En el desplegable de cada fase, se muestran los campos críticos para la empresa, que deben ser completados en cada una de las fases del evento
+![1.png](/.attachments/1-43aee9dc-eed0-4d39-8be1-b2896795fc72.png)
+
+**Información importante**
+•	Nombre del evento: campo obligatorio.
+•	Tipo de evento: campo de opciones, no tiene impacto en los fluos, utilizado para la elaboración de informes y seguimiento
+•	URL de evento: sitio web del evento
+
+Crear clientes potenciales para registros de eventos
+Si este campo se marca a si, se creará un nuevo cliente potencial por cada contacto que se añada al evento. Marcar a no para que no se generen
+
+![2.png](/.attachments/2-8833e837-7ef6-4032-891f-65be609156d2.png)
+
+
+**Configurar lugares**
+Se puede configurar el lugar de celebración de los eventos. Para ello, existen tres entidades:
+•	Edificios. Representan estructuras independientes que se pueden dividir o no en salas
+•	Salas. Representan subdivisiones de edificios y cada una debe asignarse a un registro de edificio que también está almacenado en el sistema.
+•	Distribuciones. Representan las diferentes organizaciones con las que puede contar una sala (sillas y otras instalaciones). Cada distribución puede afectar al aforo
+
+![3.png](/.attachments/3-27121264-98c7-4736-988c-f1f790a4cae7.png)
+
+El campo Crear lista de espera para este evento, permite crear una lista de espera para el evento, en la que se pueden configurar opciones sobre cómo invitar a contactos de una lista cuando el espacio está disponible
+
+
+**Administrar sesiones**
+Oradores y patrocinadores
+Después de configurar los detalles iniciales, se puede planificar la programación del eventos con sesiones. 
+Una sesión puede representar un seminario, una ponencia, un stand, etc. Cada sesión está asociada a un evento y orador específicos. Contiene detalles como el título, la fecha y hora de inicio y finalización, el formato o la capacidad máxima. Esencialmente, estas sesiones funcionan como un subevento del evento principal
+Participaciones como orador, cada uno de estos registros es una sesión que ha realizado o realizará un orador concreto. Estos oradores se registran en la entidad Orador y contienen información como los datos del contacto y biográficos, así como un registro de todas las participaciones y sesiones que dicho orador ha realizado o realizará
+
+![4.png](/.attachments/4-f4819bc1-e533-4362-828c-591cb52fbbea.png)
+
+**Patrocinadores de eventos**
+Cada patrocinador representa a una persona u organización que aporta fondos, equipos o servicios a cambio de colocar logotipos o mensajes para el evento con el fin de promocionarse. Cada registro de patrocinador debe estar asociado a un evento y una empresa. Se puede incluir información sobre el patrocinador, su tipo, su valor, así como los artículos incluidos
+
+![5.png](/.attachments/5-f0644263-6707-4ff7-bdbe-a0c36b8e42dc.png)
+
+**Pases de eventos**
+Son vales que se pueden vender o regalar para conceder acceso al evento. Se puede configurar un único pase para dar acceso a todo el evento, o se pueden crear diferentes pases de evento para cada sesión, incluso se pueden utilizar para dar acceso a una zona determinada del lugar.
+Cada uno de estos pases tendrá un número de pases asignado, que equivaldrá al total de pases disponibles para el evento. Los campos Número de pases vendidos y pases restantes aumentan y disminuyen respectivamente al asignar un pase
+El personal del evento puede registrar manualmente a las personas que acceden al evento, o se puede automatizar el proceso mediante un escáner de códigos QR
+
+**Información adicional**
+En esta pestaña se muestra un resumen de información general y datos financieros del evento. Esta información puede completarse desde aquí, así como se mostrará el cálculo de diferentes campos (coste del lugar, ingreso de patrocinadores)
+
+![6.png](/.attachments/6-578eacb0-4eec-41c3-8358-8e9493889e17.png)
+
+Se pueden agregar también miembros del equipo del evento, que incluye compañeros y contactos externos que ayudan a organizar el evento. Cada registro contiene el nombre y rol que desempeñarán, además pueden estar relacionados a un contacto o usuario para extender la información de la persona.
+
+![7.png](/.attachments/7-2151d54f-cdaf-46a3-b010-a7daa892a830.png)
+ 
