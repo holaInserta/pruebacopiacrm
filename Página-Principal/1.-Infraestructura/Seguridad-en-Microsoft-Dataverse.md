@@ -12,9 +12,9 @@
 | Usuario | Rol | Comentarios |
 |--|--|--|
 | Francisco Maya | System Customizer | Rol estándar |
-| Francisco Lupiañez Garcia | Basic User + Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
-| Alberto Luis Medina Barceló | Basic User + Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
-| Abderrahman Perez El Arabi | Basic User + Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
+| Francisco Lupiañez Garcia | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
+| Alberto Luis Medina Barceló | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
+| Abderrahman Perez El Arabi | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
 
 ## Fundraising and Engagement
 | Usuario | Rol | Comentarios |
@@ -25,7 +25,7 @@
 ## Sales
 | Usuario | Rol | Comentarios |
 |--|--|--|
-| Laura Eila Ramos Cuellar | Basic User + Sales Manager + Sales Enterprise app access | Rol estándar |
-| Rene Rodriguez Clares | Basic User + Salesperson + Sales Enterprise app access | Rol estándar |
-| Carmen Orozco Jimenez | Basic User + Salesperson + Sales Enterprise app access | Rol estándar |
-| Victor Manuel Gonzalez Requena | Basic User + Salesperson + Sales Enterprise app access | Rol estándar |
+| Laura Eila Ramos Cuellar | Sales Manager + Sales Enterprise app access | Rol estándar |
+| Rene Rodriguez Clares | Salesperson + Sales Enterprise app access | Rol estándar |
+| Carmen Orozco Jimenez | Salesperson + Sales Enterprise app access | Rol estándar |
+| Victor Manuel Gonzalez Requena | Salesperson + Sales Enterprise app access | Rol estándar |
