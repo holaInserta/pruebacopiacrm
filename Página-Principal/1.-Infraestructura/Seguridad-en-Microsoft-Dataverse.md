@@ -11,7 +11,7 @@
 
 | Usuario | Rol | Comentarios |
 |--|--|--|
-| Francisco Maya | Director Comercial + System Customizer | Rol estándar |
+| Francisco Maya | Administrador del sistema | Rol estándar |
 | Francisco Lupiañez Garcia | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
 | Alberto Luis Medina Barceló | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
 | Abderrahman Perez El Arabi | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
