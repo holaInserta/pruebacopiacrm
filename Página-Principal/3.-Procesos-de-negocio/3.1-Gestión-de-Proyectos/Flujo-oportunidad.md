@@ -43,5 +43,16 @@ Si es necesario realizar nuevas versiones de la oferta, no se creará una nueva 
 
 Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará, también, mediante el botón “Revisar” de la oferta. 
 
+## **Desde cuenta**
+Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
 
+Desde el formulario de la cuenta, vamos a la pestaña “Oportunidades”, esto nos mostrará una vista con las oportunidades relacionadas a la cuenta. 
+
+Para crear una nueva oportunidad, hacemos clic en “Crear Oportunidad”, de esta manera generaremos una nueva oportunidad relacionada a la cuenta.
+
+![8.png](/.attachments/8-87394f94-c4be-40b1-983e-9af603fe971d.png)
+
+Para hacerlo desde el panel general de oportunidades, hacemos clic en “Nuevo”, esto abrirá un formulario de oportunidad, donde tendremos que informar la cuenta a la que queremos relacionar la nueva oportunidad.
+
+![9.png](/.attachments/9-419a7ad2-9ba4-4a17-8bc6-23e875e876a3.png)
  
