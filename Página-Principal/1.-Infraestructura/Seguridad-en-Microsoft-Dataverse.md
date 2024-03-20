@@ -19,8 +19,8 @@
 ## Fundraising and Engagement
 | Usuario | Rol | Comentarios |
 |--|--|--|
-| Daniel Gonzalez | Basic User + Fundraising and Engagement | Rol estándar |
-| Resto de personal de fundraising y comunicación | Basic User + Fundraising and Engagement | Rol estándar |
+| Daniel Gonzalez | Basic User + Fundraising and Engagement + Marketing Manager - Business + Event Administrator + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
+| Resto de personal de fundraising y comunicación | Basic User + Fundraising and Engagement + Marketing Professional - Business + Event Planner + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
 
 ## Sales
 | Usuario | Rol | Comentarios |
