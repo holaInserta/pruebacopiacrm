@@ -1,6 +1,6 @@
 Para facilitar el seguimiento de los proyectos, hay dos momentos en los que se enviará un correo electrónico para que el equipo o persona responsable de llevar a cabo las tareas necesarias en ese momento, pueda realizar un seguimiento y tener un aviso
 
-## **Enviar correo al subir documentación oportunidad**
+## **Enviar correo al subir documentación**
 
 El primero momento en el que se envía el correo, es cuando se sube toda la documentación necesaria del proyecto. En este momento se envía un correo a la persona responsable (Francisco) para que pueda revisar dicha documentación.
 Para asegurarnos que el correo se envía cuando está subida correctamente toda la documentación, será necesario marcar el campo "Evaluar idoneidad" a Si. En este momento, se enviará el correo con el enlace a la oportunidad para poder revisar dicha documentación
