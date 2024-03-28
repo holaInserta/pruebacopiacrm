@@ -12,15 +12,15 @@
 | Usuario | Rol | Comentarios |
 |--|--|--|
 | Francisco Maya | Administrador del sistema + FundraisingandEngagement: System Admministrator | Rol estándar |
-| Francisco Lupiañez Garcia | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
-| Alberto Luis Medina Barceló | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
-| Abderrahman Perez El Arabi | Vice President of Sales + Fundraising and Engagement | Rol estándar con personalización de permisos |
+| Francisco Lupiañez Garcia | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
+| Alberto Luis Medina Barceló | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
+| Abderrahman Perez El Arabi | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
 
 ## Fundraising and Engagement
 | Usuario | Rol | Comentarios |
 |--|--|--|
-| Daniel Gonzalez | Fundraising and Engagement + CP365 Marketing Manager - Business + CP365 Event Administrator + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
-| Resto de personal de fundraising y comunicación | Fundraising and Engagement + CP365 Marketing Professional - Business + CP365 Event Planner + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
+| Daniel Gonzalez | FundraisingandEngagement: Fundraiser Administrator + CP365 Marketing Manager - Business + CP365 Event Administrator + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
+| Resto de personal de fundraising y comunicación | FundraisingandEngagement: Fundraiser + CP365 Marketing Professional - Business + CP365 Event Planner + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
 
 ## Sales
 | Usuario | Rol | Comentarios |
