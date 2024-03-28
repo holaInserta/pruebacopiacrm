@@ -19,8 +19,8 @@
 ## Fundraising and Engagement
 | Usuario | Rol | Comentarios |
 |--|--|--|
-| Daniel Gonzalez | FundraisingandEngagement: Fundraiser Administrator + CP365 Marketing Manager - Business + CP365 Event Administrator + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
-| Resto de personal de fundraising y comunicación | FundraisingandEngagement: Fundraiser + CP365 Marketing Professional - Business + CP365 Event Planner + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
+| Daniel Gonzalez | FundraisingandEngagement: Fundraiser Administrator + FundraisingandEngagement: Finance Administrator + FundraisingandEngagement: Gift Processing Admin + CP365 Marketing Manager - Business + CP365 Event Administrator + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
+| Resto de personal de fundraising y comunicación | FundraisingandEngagement: Fundraiser + FundraisingandEngagement: Generate Pledges + FundraisingandEngagement: Gift Processing + FundraisingandEngagement: Receipting + FundraisingandEngagement: Refund + FundraisingandEngagement: Set Committed + CP365 Marketing Professional - Business + CP365 Event Planner + Marketing, Business App Access + Fundraising and Engagement App | Rol estándar |
 
 ## Sales
 | Usuario | Rol | Comentarios |
