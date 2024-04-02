@@ -11,5 +11,5 @@
 [FundraisingandEngagement - Generate Pledges.xlsx](/.attachments/FundraisingandEngagement%20-%20Generate%20Pledges-2344b08b-1435-4006-b62a-7b74f67a7734.xlsx)
 
 # FundraisingandEngagement - Gift Processing
-
+![XrmToolBox_1pGso4FIVs.gif](/.attachments/XrmToolBox_1pGso4FIVs-def369a8-d9d4-4e6d-9d53-4d1248feb7df.gif)
 [FundraisingandEngagement - Gift Processing.xlsx](/.attachments/FundraisingandEngagement%20-%20Gift%20Processing-2188050d-bdd8-4c60-8b0a-d98154119082.xlsx)
