@@ -10,7 +10,7 @@ Cada producto definirá un cargo específico. Para crear un nuevo cargo, tendrem
 - **Lista de precios predeterminada:** Indica la lista de precios utilizada para este cargo. Por defecto, se creará con el valor "PVP Inserta", pero puede cambiarse por otra lista de precios definida
 
 Una vez informados estos campos, hacemos clic en Guardar y se creará el cargo. Para poder utilizar correctamente este cargo, será necesario definir el comportamiento de los precios.
-Para ello, en el producto que hemos creado, vamos a la pestaña de "Detalles adicionales" y, en la vista de "Elementos de lista de precios", hacemos clic en "Crear elemento de lista de precios"
+Para ello, en el cargo que hemos creado, vamos a la pestaña de "Detalles adicionales" y, en la vista de "Elementos de lista de precios", hacemos clic en "Crear elemento de lista de precios"
 
 ![5.png](/.attachments/5-354df901-1719-4f16-8c26-1d32c103bcab.png)
 
