@@ -1,3 +1,6 @@
+[[_TOC_]]
+
+
 # Fundraising and Engagement
 ## FundraisingandEngagement - Finance Administrator
 La función de Administrador financiero confiere los derechos de solución necesarios para administrar o mantener las finanzas de su organización. Asigne esta función a los miembros del equipo que necesiten ajustar montos financieros, configurar y mantener designaciones y conciliar designaciones con el libro mayor o la solución de cuenta.
@@ -92,3 +95,10 @@ Acceso a gestión de productos, gestión de ventas, previsión de ventas y gesti
 
 ![XrmToolBox_N9xuPMhvMQ.gif](/.attachments/XrmToolBox_N9xuPMhvMQ-3b5c38b9-1097-475e-8e82-4458a367ffde.gif)
 [Sales Manager.xlsx](/.attachments/Sales%20Manager-37722dfb-6405-499b-898c-590d74fb7b37.xlsx)
+
+## Salesperson
+
+Vendedores que trabajan en oportunidades, cotizaciones, pedidos y facturas. Acceda a todo, desde el cliente potencial hasta la factura: cliente potencial, oportunidades, cotización, pedido, factura. Cree cuentas y contactos, y realice un seguimiento de sus objetivos.
+
+![XrmToolBox_Mi4LsDzQY9.gif](/.attachments/XrmToolBox_Mi4LsDzQY9-df4aa8d9-4bc1-473d-8f5b-ecce25470536.gif)
+[Salesperson.xlsx](/.attachments/Salesperson-cbaa75a5-3dce-446b-91c4-6eefd9852a5b.xlsx)
