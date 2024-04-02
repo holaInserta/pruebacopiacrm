@@ -49,3 +49,11 @@ La función de Recepción contiene solo los privilegios necesarios para realizar
 
 ![image.png](/.attachments/image-f52638d5-ef58-4979-8a43-f57052154295.png)
 [FundraisingandEngagement - Receipting.xlsx](/.attachments/FundraisingandEngagement%20-%20Receipting-bb5e1476-1a8b-44d7-b766-0364c4f09daa.xlsx)
+
+# FundraisingandEngagement - Refund
+
+La función de Reembolso contiene solo los privilegios necesarios para realizar la función de Reembolso : la capacidad de actualizar el Calendario de Transacciones y Pagos y crear el registro de reembolso subyacente. Asigne este rol a los usuarios que necesiten acceso a la siguiente lógica de botones del panel de acciones:
+- Recibo
+
+![image.png](/.attachments/image-d80fa67a-d831-4f9c-aa78-acd871eabeca.png)
+[FundraisingandEngagement - Refund.xlsx](/.attachments/FundraisingandEngagement%20-%20Refund-422878e0-93d1-436a-b8fe-db38af47187e.xlsx)
