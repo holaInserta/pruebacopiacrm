@@ -57,3 +57,17 @@ La función de Reembolso contiene solo los privilegios necesarios para realizar 
 
 ![image.png](/.attachments/image-d80fa67a-d831-4f9c-aa78-acd871eabeca.png)
 [FundraisingandEngagement - Refund.xlsx](/.attachments/FundraisingandEngagement%20-%20Refund-422878e0-93d1-436a-b8fe-db38af47187e.xlsx)
+
+# FundraisingandEngagement - Set Committed
+
+El rol Establecer comprometido contiene solo los privilegios necesarios para realizar la función Establecer comprometido : la capacidad de actualizar una oportunidad pero no crear una.
+
+![image.png](/.attachments/image-00f06120-5291-4a41-a324-304cff7b9991.png)
+[FundraisingandEngagement - Set Committed.xlsx](/.attachments/FundraisingandEngagement%20-%20Set%20Committed-e63d8036-4f95-4d04-ae56-7400b356c9e3.xlsx)
+
+# FundraisingandEngagement - System Administrator
+
+Asigne el rol de Administrador del sistema para conferir los privilegios necesarios para administrar la sección Configuración de participación y recaudación de fondos. Un administrador del sistema también puede crear un compromiso de donante y puede actualizar (pero no crear) una oportunidad.
+
+![XrmToolBox_kSE9kCIflu.gif](/.attachments/XrmToolBox_kSE9kCIflu-920e2f9e-a955-45d6-b250-e8850eb74762.gif)
+[FundraisingandEngagement - System Administrator.xlsx](/.attachments/FundraisingandEngagement%20-%20System%20Administrator-dab80a01-a17d-4613-8a56-69700ccd447e.xlsx)
