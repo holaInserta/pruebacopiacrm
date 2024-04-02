@@ -20,4 +20,4 @@ Se abrirá una ventana en la que se tiene que informar la lista de precios para 
 
 ![4.png](/.attachments/4-46059ee6-e433-4bca-8e9b-25ed093f290a.png)
 
-Una vez hecho esto, el producto ya podrá ser utilizado en la configuración de los presupuestos a través de las oportunidades.
+Una vez hecho esto, el cargo ya podrá ser utilizado en la configuración de los presupuestos a través de las oportunidades.
