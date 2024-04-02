@@ -72,3 +72,23 @@ Asigne el rol de Administrador del sistema para conferir los privilegios necesar
 
 ![XrmToolBox_kSE9kCIflu.gif](/.attachments/XrmToolBox_kSE9kCIflu-920e2f9e-a955-45d6-b250-e8850eb74762.gif)
 [FundraisingandEngagement - System Administrator.xlsx](/.attachments/FundraisingandEngagement%20-%20System%20Administrator-dab80a01-a17d-4613-8a56-69700ccd447e.xlsx)
+
+# Sales
+
+## Vice President of Sales
+
+Usuarios que normalmente gestionan la organización de ventas para varias unidades de negocio o para toda la organización.
+
+Mismos permisos que el Sales Manager, excepto que su alcance de acceso es más amplio
+
+![XrmToolBox_Y1fOVfFWZF.gif](/.attachments/XrmToolBox_Y1fOVfFWZF-a8fdbf66-c2c6-4d16-b3e2-4c7a8c191014.gif)
+[Vice President of Sales.xlsx](/.attachments/Vice%20President%20of%20Sales-fe622a50-3371-4083-b31b-88162756afd4.xlsx)
+
+## Sales Manager
+
+Usuarios que gestionan un equipo de vendedores y son responsables del desempeño del equipo. También son responsables de crear y administrar productos, establecer objetivos de ventas y proyectar pronósticos de ventas.
+
+Acceso a gestión de productos, gestión de ventas, previsión de ventas y gestión de objetivos, junto con los privilegios del rol de Vendedor.
+
+![XrmToolBox_N9xuPMhvMQ.gif](/.attachments/XrmToolBox_N9xuPMhvMQ-3b5c38b9-1097-475e-8e82-4458a367ffde.gif)
+[Sales Manager.xlsx](/.attachments/Sales%20Manager-37722dfb-6405-499b-898c-590d74fb7b37.xlsx)
