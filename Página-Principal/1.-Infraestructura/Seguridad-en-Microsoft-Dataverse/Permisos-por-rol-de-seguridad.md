@@ -40,3 +40,12 @@ Esta función contiene un alto nivel de privilegios con la capacidad de importar
 
 ![XrmToolBox_3yMG88Llit.gif](/.attachments/XrmToolBox_3yMG88Llit-2669e253-80a5-4a4b-a7c3-fb6810c1e283.gif)
 [FundraisingandEngagement - Gift Processing Admin.xlsx](/.attachments/FundraisingandEngagement%20-%20Gift%20Processing%20Admin-6fb9e42b-5fc8-407b-bdae-f44660fc4b0a.xlsx)
+
+# FundraisingandEngagement - Receipting
+
+La función de Recepción contiene solo los privilegios necesarios para realizar la función de Recepción : la capacidad de actualizar transacciones y cronogramas de pago y crear el registro de recibo subyacente. No otorga ningún privilegio. Asignar a un usuario esta función proporciona acceso a la siguiente lógica de botones del panel de acciones:
+- Recibo
+- Crear recibos relacionados
+
+![image.png](/.attachments/image-f52638d5-ef58-4979-8a43-f57052154295.png)
+[FundraisingandEngagement - Receipting.xlsx](/.attachments/FundraisingandEngagement%20-%20Receipting-bb5e1476-1a8b-44d7-b766-0364c4f09daa.xlsx)
