@@ -43,7 +43,7 @@ Una vez está correctamente configurado, hacemos clic en "Guardar" y se añadir�
 
 ![9.png](/.attachments/9-eb86182d-0b7d-458c-b90b-c2b736166d44.png)
 
-Si es necesario realizar nuevas versiones de la oferta, no se creará una nueva oferta tal y como se hace la primera, para estos casos, dentro de la última oferta que hemos editado hacemos clic en el botón “Revisar”. Esto generará una nueva oferta con los datos de la anterior sobre la que haremos las modificaciones necesarias y, la oferta que hemos desechado se inactivará.
+Si es necesario realizar nuevas versiones de la oferta, no se creará una nueva oferta tal y como se hace la primera. Para estos casos, dentro de la última oferta que hemos editado hacemos clic en el botón “Revisar”. Esto generará una nueva oferta con los datos de la anterior sobre la que haremos las modificaciones necesarias y, la oferta que hemos desechado se inactivará.
 
 ![10.png](/.attachments/10-a2e07c05-335c-4408-b6df-5e30d032e534.png)
 
