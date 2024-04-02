@@ -1,5 +1,5 @@
 La entidad de Producto es la que se utilizará para definir todo tipo de cargos que se añadirán en los presupuestos.
-Cada producto definirá un un cargo específico. Para crear uno nuevo, tendremos que ir a productos y hacer clic en "Agregar producto", esto nos llevará a un formulario en el que tendremos que completar los siguientes datos:
+Cada producto definirá un cargo específico. Para crear uno nuevo, tendremos que ir a productos y hacer clic en "Agregar producto", esto nos llevará a un formulario en el que tendremos que completar los siguientes datos:
 
 - **Nombre:** Es el nombre que recibirá el cargo
 - **Id. de producto:** Es el identificador único que recibe el cargo
