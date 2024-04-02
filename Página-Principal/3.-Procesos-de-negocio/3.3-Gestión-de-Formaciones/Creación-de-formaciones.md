@@ -9,7 +9,11 @@ Cada producto definirá una formación específica. Para crear una nueva formaci
 - **Decimales admitidos:** Indica el número de decimales que podrá tener el precio de la formación. Por defecto, se informa a "2" para permitir los decimales estandarizados, pero puede ser modificado por otro valor entero
 - **Lista de precios predeterminada:** Indica la lista de precios utilizada para esta formación. Por defecto, se creará con el valor "PVP Inserta", pero puede cambiarse por otra lista de precios definida
 
-Una vez informados estos campos, hacemos clic en Guardar y se creará la nueva formación. Para poder utilizar correctamente esta formación, será necesario definir el comportamiento de los precios.
+Una vez informados estos campos, hacemos clic en Guardar y se creará la nueva formación.
+
+![6.png](/.attachments/6-e80dc089-b7d4-4b64-8952-faa1f4a90b7c.png)
+
+Para poder utilizar correctamente esta formación, será necesario definir el comportamiento de los precios.
 Para ello, en la formación que hemos creado, vamos a la pestaña de "Detalles adicionales" y, en la vista de "Elementos de lista de precios", hacemos clic en "Crear elemento de lista de precios"
 
 ![5.png](/.attachments/5-354df901-1719-4f16-8c26-1d32c103bcab.png)
