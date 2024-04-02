@@ -16,12 +16,11 @@ Una vez informados estos campos, hacemos clic en Guardar y se creará la nueva f
 Para poder utilizar correctamente esta formación, será necesario definir el comportamiento de los precios.
 Para ello, en la formación que hemos creado, vamos a la pestaña de "Detalles adicionales" y, en la vista de "Elementos de lista de precios", hacemos clic en "Crear elemento de lista de precios"
 
-![5.png](/.attachments/5-354df901-1719-4f16-8c26-1d32c103bcab.png)
+![7.png](/.attachments/7-c32164e1-4d08-42b1-8359-a03646e6a8a3.png)
 
 Se abrirá una ventana en la que se tiene que informar la lista de precios para la que se quiere configurar el nuevo elemento y, en la pestaña "Información de precios", se tendrá que indicar el precio predeterminado de la formación. El precio predeterminado puede ser 0, ya que una vez se añada la formación a la oferta, se podrá modificar el importe para dicha formación en el oferta que se vaya a utilizar.
 
-![3.png](/.attachments/3-e2cf442c-4bff-44d2-8e2c-22dfd9cb58c5.png)
-
-![4.png](/.attachments/4-46059ee6-e433-4bca-8e9b-25ed093f290a.png)
+![8.png](/.attachments/8-644ad56c-b982-4e2a-9fbd-ba1169ed75c7.png)
+![9.png](/.attachments/9-741da5c9-8950-4a2a-8e88-10b59391c202.png)
 
 Una vez hecho esto, la formación ya podrá ser utilizado en la configuración de los presupuestos a través de las oportunidades.
