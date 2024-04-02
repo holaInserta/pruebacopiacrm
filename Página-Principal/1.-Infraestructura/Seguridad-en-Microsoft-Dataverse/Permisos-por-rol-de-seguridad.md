@@ -1,15 +1,42 @@
 # FundraisingandEngagement - Finance Administrator
+La función de Administrador financiero confiere los derechos de solución necesarios para administrar o mantener las finanzas de su organización. Asigne esta función a los miembros del equipo que necesiten ajustar montos financieros, configurar y mantener designaciones y conciliar designaciones con el libro mayor o la solución de cuenta.
+
+Este rol no confiere los derechos de solución necesarios para crear regalos o eventos.
+
 ![XrmToolBox_qQg6iIlEv6.gif](/.attachments/XrmToolBox_qQg6iIlEv6-d6fd4c1e-a832-49bb-980f-f4ea9a85007e.gif)
 [FundraisingandEngagement - Fundraiser Administrator.xlsx](/.attachments/FundraisingandEngagement%20-%20Fundraiser%20Administrator-f31008bd-73c4-4f73-9d33-3d281914bd53.xlsx)
 
 # FundraisingandEngagement - Fundraiser
+
+Asigne esta función a los miembros del equipo que son responsables de gestionar las Oportunidades (relaciones con posibles donantes alineadas con las prioridades de financiación) y la información de las relaciones (como Contactos, Cuentas y Hogares). Esta función también confiere los privilegios necesarios para crear paquetes de registro de eventos y para actualizar y mantener (pero no crear) campañas, paquetes y apelaciones.
+
+Esta función no permite al usuario importar datos, actualizar datos en masa ni exportarlos a Excel.
+
 ![XrmToolBox_OkOU90tMjz.gif](/.attachments/XrmToolBox_OkOU90tMjz-61a347ad-7c56-469a-b5e9-3c1b6676c040.gif)
 [FundraisingandEngagement - Fundraiser.xlsx](/.attachments/FundraisingandEngagement%20-%20Fundraiser-b865419a-d6f2-4bb0-a443-824c46a92831.xlsx)
 
 # FundraisingandEngagement - Generate Pledges
+
+La función Generar promesas contiene solo los privilegios necesarios para realizar la función Generar promesas : la capacidad de actualizar una Oportunidad (pero no crear una) mediante la creación de un Compromiso del donante.
+
 ![image.png](/.attachments/image-100a0721-2234-475b-ae7c-95a9158c96d3.png)
 [FundraisingandEngagement - Generate Pledges.xlsx](/.attachments/FundraisingandEngagement%20-%20Generate%20Pledges-2344b08b-1435-4006-b62a-7b74f67a7734.xlsx)
 
 # FundraisingandEngagement - Gift Processing
+
+Asigne esta función a los miembros del equipo que gestionan el procesamiento de obsequios para su organización. Esta función está configurada para cubrir los escenarios en los que los miembros del equipo necesitan importar datos para generar recibos y reembolsos.
+
+Como se espera que esta función importe datos en masa, tiene un alto conjunto de privilegios y la capacidad de manipular transacciones financieras.
+
+Esta función no permite al usuario actualizar datos de forma masiva ni exportarlos a Excel.
+
 ![XrmToolBox_1pGso4FIVs.gif](/.attachments/XrmToolBox_1pGso4FIVs-def369a8-d9d4-4e6d-9d53-4d1248feb7df.gif)
 [FundraisingandEngagement - Gift Processing.xlsx](/.attachments/FundraisingandEngagement%20-%20Gift%20Processing-2188050d-bdd8-4c60-8b0a-d98154119082.xlsx)
+
+# FundraisingandEngagement - Gift Processing Admin
+Asigne esta función a los miembros del equipo que requieran los privilegios de la función Procesamiento de obsequios y privilegios de administrador relacionados, como exportar a Excel y realizar actualizaciones masivas. Esta función incluye los privilegios necesarios para crear categorías de membresía, niveles de donación y pilas de recibos.
+
+Esta función contiene un alto nivel de privilegios con la capacidad de importar datos, actualizar datos de forma masiva y exportar a Excel.
+
+![XrmToolBox_3yMG88Llit.gif](/.attachments/XrmToolBox_3yMG88Llit-2669e253-80a5-4a4b-a7c3-fb6810c1e283.gif)
+[FundraisingandEngagement - Gift Processing Admin.xlsx](/.attachments/FundraisingandEngagement%20-%20Gift%20Processing%20Admin-6fb9e42b-5fc8-407b-bdae-f44660fc4b0a.xlsx)
