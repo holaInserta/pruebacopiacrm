@@ -9,7 +9,11 @@ Cada producto definirá un cargo específico. Para crear un nuevo cargo, tendrem
 - **Decimales admitidos:** Indica el número de decimales que podrá tener el precio del cargo. Por defecto, se informa a "2" para permitir los decimales estandarizados, pero puede ser modificado por otro valor entero
 - **Lista de precios predeterminada:** Indica la lista de precios utilizada para este cargo. Por defecto, se creará con el valor "PVP Inserta", pero puede cambiarse por otra lista de precios definida
 
-Una vez informados estos campos, hacemos clic en Guardar y se creará el cargo. Para poder utilizar correctamente este cargo, será necesario definir el comportamiento de los precios.
+Una vez informados estos campos, hacemos clic en Guardar y se creará el cargo.
+
+![1.png](/.attachments/1-1169deb9-b5df-4799-a413-2e8462027409.png)
+
+Para poder utilizar correctamente este cargo, será necesario definir el comportamiento de los precios.
 Para ello, en el cargo que hemos creado, vamos a la pestaña de "Detalles adicionales" y, en la vista de "Elementos de lista de precios", hacemos clic en "Crear elemento de lista de precios"
 
 ![5.png](/.attachments/5-354df901-1719-4f16-8c26-1d32c103bcab.png)
