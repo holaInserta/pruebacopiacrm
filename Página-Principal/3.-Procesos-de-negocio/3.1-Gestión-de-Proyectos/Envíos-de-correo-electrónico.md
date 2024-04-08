@@ -1,4 +1,4 @@
-Para facilitar el seguimiento de los proyectos, hay dos momentos en los que se enviará un correo electrónico para que el equipo o persona responsable de llevar a cabo las tareas necesarias en ese momento, pueda realizar un seguimiento y tener un aviso.
+Para facilitar el seguimiento de los proyectos, hay varios momentos en los que se enviará un correo electrónico para que, el equipo o persona responsable de llevar a cabo las tareas necesarias en ese momento, pueda realizar un seguimiento y tener un aviso.
 
 ## **Enviar correo al subir documentación**
 
