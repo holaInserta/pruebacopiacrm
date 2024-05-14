@@ -1,1 +1,1 @@
-![Imagen1.png](/.attachments/Imagen1-e1f09cb4-58fc-4e52-a886-7d68d1bfd6a9.png)
+![Imagen1.png](/.attachments/Imagen1-a8d5216c-5956-4ed1-8bd0-81d0d93d1aed.png)
