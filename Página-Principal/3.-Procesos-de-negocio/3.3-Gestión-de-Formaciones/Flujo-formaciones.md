@@ -53,15 +53,16 @@ Si es necesario generar nuevas versiones de la oferta, no se creará una nueva o
 ![10.png](/.attachments/10-b4256f6d-ad26-4463-ba1a-a4504761c167.png)
 
 ## **Desde cuenta**
-Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
 
-Desde el formulario de la cuenta, vamos a la pestaña “Oportunidades”, esto nos mostrará una vista con las oportunidades relacionadas a la cuenta. 
+Para dar de alta una nueva oportunidad asociada a una cuenta existente, podemos hacerlo desde la propia cuenta o desde el panel de oportunidades.
 
-Para crear una nueva oportunidad, hacemos clic en “Crear Oportunidad”, de esta manera generaremos una nueva oportunidad relacionada a la cuenta.
+Desde el formulario de la cuenta, accedemos a la pestaña “Oportunidades”, donde veremos una lista de las oportunidades relacionadas con esa cuenta.
+
+Para crear una nueva oportunidad, simplemente hacemos clic en “Crear Oportunidad”, lo que generará una nueva oportunidad asociada a la cuenta seleccionada.
 
 ![8.png](/.attachments/8-500abaeb-73a4-401e-989b-46ac201be984.png)
 
-Para hacerlo desde el panel general de oportunidades, hacemos clic en “Nuevo”, esto abrirá un formulario de oportunidad, donde tendremos que informar la cuenta a la que queremos relacionar la nueva oportunidad.
+Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". Esto abrirá un formulario de oportunidad en el que tendremos que completar la información requerida, como la cuenta a la que queremos relacionar la nueva oportunidad, junto con los campos "Tipo de oportunidad" y "Tema".
 
 ![9.png](/.attachments/9-0210d476-e09c-42b1-bac2-3f60b95c464c.png)
 
