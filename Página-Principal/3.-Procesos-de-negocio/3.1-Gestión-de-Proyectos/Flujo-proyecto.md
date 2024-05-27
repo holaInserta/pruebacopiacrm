@@ -52,7 +52,7 @@ Desde este formulario, en la vista de Productos de la oferta, podremos añadir l
 
 Esto abrirá un formulario para agregar los productos, en este caso de tipo "cargo", a la oferta. En este formulario, deberemos seleccionar el cargo que se desea añadir y configurar tanto el precio unitario como la cantidad a incorporar, ya que, dependiendo del proyecto, los cargos pueden tener importes variables.
 
-NOTA: Para crear nuevos cargos ir a [3.6 Gestión de cargos](/Página-Principal/3.-Procesos-de-negocio/3.6-Gestión-de-cargos)
+NOTA: Para crear nuevos cargos ir a [3.6 Gestión de cargos](/Página-Principal/3.-Procesos-de-negocio/3.6-Gestión-de-productos)
 
 ![8.png](/.attachments/8-052eeaab-f769-43ee-be61-dd4e0c273da8.png)
 
