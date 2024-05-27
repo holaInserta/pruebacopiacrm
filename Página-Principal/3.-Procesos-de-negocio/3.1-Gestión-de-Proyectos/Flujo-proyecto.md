@@ -42,7 +42,7 @@ Para elaborar la propuesta, el equipo técnico tendrá que generar una oferta, d
 
 ![5.png](/.attachments/5-b6c71ba4-3274-48d1-9b1a-38c84738809d.png)
 
-Esto nos dirigirá a un nuevo formulario de oferta. En primer lugar, al ser una oferta proveniente de una oportunidad de tipo proyecto, los campos de "Fecha de ejecución", "Fecha de inicio de proyecto" y "Fecha fin del proyecto", serán obligatorios.
+Esto nos llevará a un nuevo formulario de oferta. Dado que se trata de una oferta derivada de una oportunidad de tipo "Proyecto", los campos "Fecha de ejecución", "Fecha de inicio del proyecto", "Fecha de fin del proyecto" y "Condiciones de pago" serán obligatorios.
 
 ![6.png](/.attachments/6-0825bbb4-b1cd-4989-928d-6d84ddb4ad86.png)
 
@@ -50,7 +50,9 @@ Desde este formulario, en la vista de Productos de la oferta, podremos añadir l
 
 ![7.png](/.attachments/7-e590430e-5a8b-4721-b873-e6b02ed5e6bc.png)
 
-Esto abrirá un formulario para la creación del nuevo cargo de la oferta, en el que tendremos que elegir el cargo que se quiere añadir y configurar el precio unitario y cantidad a incorporar.
+Esto abrirá un formulario para agregar los productos, en este caso de tipo "cargo", a la oferta. En este formulario, deberemos seleccionar el cargo que se desea añadir y configurar tanto el precio unitario como la cantidad a incorporar, ya que, dependiendo del proyecto, los cargos pueden tener importes variables.
+
+NOTA: Para crear nuevos cargos
 
 ![8.png](/.attachments/8-052eeaab-f769-43ee-be61-dd4e0c273da8.png)
 
