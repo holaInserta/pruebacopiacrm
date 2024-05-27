@@ -66,6 +66,8 @@ Si es necesario generar nuevas versiones de la oferta, no se creará una nueva o
 
 **Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará también mediante el botón “Revisar” de la oferta.**
 
+Por último, se ha implementado un proceso automatizado de notificación por correo electrónico, cuyo periodo de aviso está parametrizado para que pueda ajustarse en el futuro si es necesario, actualmente establecido en 2 meses. Este proceso informará al equipo de proyectos y administración sobre la fecha de finalización de la ejecución y el nombre del proyecto, lo que les brindará tiempo suficiente para revisar los objetivos a cumplir, el presupuesto y otros aspectos relevantes. Este enfoque está especialmente dirigido a la fase de justificación del proyecto.
+
 ## **Desde cuenta**
 Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
 
