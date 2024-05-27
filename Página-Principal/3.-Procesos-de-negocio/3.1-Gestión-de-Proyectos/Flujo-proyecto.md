@@ -66,7 +66,16 @@ Si es necesario generar nuevas versiones de la oferta, no se creará una nueva o
 
 **Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará también mediante el botón “Revisar” de la oferta.**
 
-Por último, se ha implementado un proceso automatizado de notificación por correo electrónico, cuyo periodo de aviso está parametrizado para que pueda ajustarse en el futuro si es necesario, actualmente establecido en 2 meses. Este proceso informará al equipo de proyectos y administración sobre la fecha de finalización de la ejecución y el nombre del proyecto, lo que les brindará tiempo suficiente para revisar los objetivos a cumplir, el presupuesto y otros aspectos relevantes. Este enfoque está especialmente dirigido a la fase de justificación del proyecto.
+Por último, se han implementado dos proceso automatizado de notificación por correo electrónico, cuyo periodo de aviso está parametrizado para que pueda ajustarse en el futuro si es necesario, actualmente establecido en 2 meses y 1 mes respectivamente. El primer proceso informará al equipo de proyectos y administración sobre la fecha de finalización de la ejecución y el nombre del proyecto, lo que les brindará tiempo suficiente para revisar los objetivos a cumplir, el presupuesto y otros aspectos relevantes. Este enfoque está especialmente dirigido a la fase de revisión final del proyecto. 
+NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicación"
+
+![2.png](/.attachments/2-17236064-c51b-49cf-8cb1-adaa01b88c0a.png)
+
+El segundo proceso enviará una notificación cuando quede 1 mes para cumplir la fecha de justificación del proyecto.
+
+NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicación"
+
+![1.png](/.attachments/1-94e3e383-a538-4adc-88a5-9d06f2ac8fc5.png)
 
 ## **Desde cuenta**
 Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
