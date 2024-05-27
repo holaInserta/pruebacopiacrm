@@ -16,7 +16,7 @@ Una vez verificados todos los datos, haremos clic en "Calificar" para generar la
 
 ![2.png](/.attachments/2-d0a47773-5a02-4ee4-a700-e8b52ea4698f.png)
 
-Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Formación", y también el "tema" y "Plazo de presentación" correspondiente.
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Formación", y también el "tema" correspondiente.
 
 ![3.png](/.attachments/3-65872613-fa7c-4fb9-890b-6ee39204903e.png)
 
