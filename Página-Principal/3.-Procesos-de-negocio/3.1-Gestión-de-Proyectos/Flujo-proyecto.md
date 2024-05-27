@@ -11,17 +11,30 @@ Para generar un nuevo cliente potencial, desde la vista principal de clientes po
 
 ![1.png](/.attachments/1-a0535456-cbe1-45ec-a309-6bf8d8445600.png)
 
-Una vez nos hemos asegurado de que todos los datos están correctos, hacemos clic en “Calificar”, lo que generará la oportunidad.
+Una vez verificados todos los datos, haremos clic en "Calificar" para generar la oportunidad. Es fundamental asegurarse de que el lead no provenga de un cliente o financiador existente. Si este es el caso, antes de calificar el lead, debemos indicar a qué cliente está relacionado en el formulario correspondiente.
 
 ![2.png](/.attachments/2-ad7ee483-f5a5-4b38-ba85-e30d74608b29.png)
 
-Al calificar el cliente potencial, se abrirá la nueva oportunidad creada, a la que se relaciona la nueva cuenta que también se genera al calificar el cliente potencial. En este momento, se tendrá que informar el tipo de oportunidad, que para este caso será "Proyecto". También podemos informar otros datos, como el plazo de presentación o indicar el importe de los fondos propios en casi que se marque a Si
+
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "tema" y "Plazo de presentación" correspondiente.
 
 ![3.png](/.attachments/3-101798c1-f403-4d6a-b58d-68882475e6dc.png)
 
-En este punto, se puede subir la documentación necesaria en la pestaña de “Documentos” de la oportunidad y, una vez se hayan subido todos los documentos necesarios, se marcará el campo “Evaluar idoneidad” para enviar dichos archivos a revisión (se enviará un correo electrónico a Francisco con el enlace a la oportunidad).
+Una vez que guardemos la información, al tratarse de una oportunidad de tipo "Proyecto", se habilitará y mostrará un proceso de negocio personalizado para Inserta, con las respectivas etapas definidas. Cabe destacar que este proceso de negocio solo se muestra para oportunidades de este tipo.
 
-Una vez revisados, se marcará el campo “Decidir si proceder o no proceder” para que, en caso afirmativo, el equipo técnico empiece a desarrollar la oferta (se enviará un correo electrónico al equipo técnico con el enlace de la oportunidad).
+![image.png](/.attachments/image-585db29f-66e1-483c-93ef-c667ac1e475b.png)
+
+En este punto, se puede subir la documentación necesaria en la pestaña "Documentos" de la oportunidad, la cual está vinculada a un repositorio de SharePoint para la gestión documental. Una vez se hayan subido todos los documentos e informado todos los campos requeridos en la etapa de Inicio, incluido el campo "Evaluar idoneidad" marcado como "Sí", pasaremos a la siguiente etapa: Decisión.
+
+De este modo, por un lado, actualizamos la fase de la oportunidad a "Decisión", etapa en la que Francisco revisará la oportunidad y por otro lado, al marcar "Sí" en el campo "Evaluar idoneidad", se enviará un correo electrónico a Francisco con el enlace a la oportunidad para su revisión.
+
+![image.png](/.attachments/image-9567df9c-8f5b-42ac-b6cd-6d2a1ac9c24d.png)
+
+Una vez que Francisco haya revisado la oportunidad, deberá completar los campos "Situación actual", "Necesidad del cliente", "Solución propuesta" y "Decidir si proceder o no proceder". En caso de ser favorable a la creación del presupuesto, el campo "Decidir si proceder o no proceder" deberá marcarse como "Sí". Como en la fase de Inicio, Francisco deberá llenar estos campos y avanzar el proceso a la fase de Gestión.
+
+De este modo, se actualizará la fase de la oportunidad a "Gestión", etapa en la que el equipo técnico creará el presupuesto. Además, al marcar "Sí" en el campo "Decidir si proceder o no proceder", se enviará un correo electrónico al equipo técnico designado, informándoles que pueden comenzar a generar el presupuesto y subir la documentación necesaria.
+
+![image.png](/.attachments/image-d29c79ea-b232-4995-af64-492a41310732.png)
 
 ![4.png](/.attachments/4-1357d14f-181a-4c2c-86ab-fd4a800ff5ab.png)
 
