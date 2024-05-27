@@ -64,7 +64,7 @@ Si es necesario generar nuevas versiones de la oferta, no se creará una nueva o
 
 ![10.png](/.attachments/10-a2e07c05-335c-4408-b6df-5e30d032e534.png)
 
-Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará también mediante el botón “Revisar” de la oferta.
+**Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará también mediante el botón “Revisar” de la oferta.**
 
 ## **Desde cuenta**
 Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
