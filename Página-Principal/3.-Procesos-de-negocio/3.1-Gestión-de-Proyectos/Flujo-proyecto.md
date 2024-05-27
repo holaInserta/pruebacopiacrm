@@ -81,7 +81,7 @@ Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". E
 
 Una vez hemos generado la oportunidad, continuaremos con el proceso de la misma manera que al calificar el cliente potencial
 
-## Trababilidad estado de las fases
+## Trazabilidad estado de las fases
 
 Desde Inserta, surgió la necesidad de visualizar los tiempos en los que se encuentra cada una de las fases del proyecto. Para abordar esto, se ha implementado una tabla en el formulario de oportunidad que automáticamente registra el inicio y fin de cada etapa. Esto permite analizar posteriormente, o incluso durante el proceso, los tiempos dedicados a cada fase del proyecto.
 
