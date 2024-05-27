@@ -56,7 +56,7 @@ NOTA: Para crear nuevos cargos ir a [3.6 Gestión de cargos](/Página-Principal/
 
 ![8.png](/.attachments/8-052eeaab-f769-43ee-be61-dd4e0c273da8.png)
 
-Una vez está correctamente configurado, hacemos clic en "Guardar" y se añadirá el nuevo cargo a la oferta. Repetiremos este proceso hasta que hayamos agregado todos los cargos que deseamos a la oferta, entonces pasamos a activar la oferta haciendo clic en “Activar”.
+Una vez que esté correctamente configurado, hacemos clic en "Guardar" para añadir el nuevo cargo a la oferta. Repetiremos este proceso hasta que hayamos agregado todos los cargos deseados a la oferta. Luego, procedemos a activar la oferta haciendo clic en "Activar". Esta acción bloqueará la oferta para que no se pueda modificar, asegurando así la coherencia de los datos que se presentarán al cliente.
 
 ![9.png](/.attachments/9-eb86182d-0b7d-458c-b90b-c2b736166d44.png)
 
