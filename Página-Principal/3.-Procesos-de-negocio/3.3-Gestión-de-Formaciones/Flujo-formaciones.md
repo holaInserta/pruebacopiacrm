@@ -26,11 +26,13 @@ Una vez completada la información general de la oportunidad, podemos elaborar l
 
 Esto nos dirigirá a un nuevo formulario de oferta en el podremos añadir las diferentes formaciones con las que generar la propuesta.
 
-Para añadir las nuevas formaciones a la oferta, hacemos clic en "Agregar producto" en la vista de productos de la oferta
+Desde este formulario, en la vista de Productos de la oferta, podremos añadir las diferentes formaciones para generar el presupuesto deseado. Para ello, hacemos clic en "Agregar producto".
 
 ![5.png](/.attachments/5-344d228f-4a54-4fec-a7a7-37295fc316f7.png)
 
-Esto abrirá un formulario para la creación de la nueva formación de la oferta, en el que tendremos que elegir el cargo que se quiere añadir y configurar el precio unitario y cantidad a incorporar.
+Esto abrirá un formulario para agregar los productos, en este caso de tipo "formación", a la oferta. En este formulario, deberemos seleccionar la formación que se desea añadir y configurar tanto el precio unitario como la cantidad a incorporar, ya que, dependiendo de la oportunidad en la que nos encontremos, la formación o formaciones pueden tener importes variables.
+
+NOTA: Para crear nuevas formaciones ir a [3.6 Gestión de cargos](/Página-Principal/3.-Procesos-de-negocio/3.6-Gestión-de-cargos)
 
 ![6.png](/.attachments/6-54c3847d-8440-422f-bfa2-433b71d3dd94.png)
 
