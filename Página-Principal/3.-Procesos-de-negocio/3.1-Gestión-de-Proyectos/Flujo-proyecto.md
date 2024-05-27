@@ -5,6 +5,7 @@ Para la gestión de los proyectos, se utilizará el flujo estándar de oportunid
 Este flujo puede iniciarse al dar de alta un nuevo cliente potencial, o bien crear una nueva oportunidad con una cuenta existente en el sistema.
 
 ## **Desde cliente potencial**
+
 Para empezar el flujo desde el cliente potencial, primero se tendrá que contar con el cliente potencial al que queremos generar una oportunidad, o bien dar uno nuevo de alta.
 
 Para generar un nuevo cliente potencial, desde la vista principal de clientes potenciales, utilizaremos el botón “Nuevo”, esto nos abrirá un formulario de cliente potencial donde debemos informar los datos antes de continuar.
