@@ -44,11 +44,11 @@ Esto nos abrirá una ventana en la que podremos elegir entre distintas vistas so
 
 ![8.png](/.attachments/8-79f97f91-e6ec-4be3-999b-b6c45cd57f71.png)
 
-Una vez está correctamente configurado, hacemos clic en "Guardar" y se añadirá la nueva formación a la oferta. Repetiremos este proceso hasta que hayamos agregado todas las formaciones que deseamos a la oferta, entonces pasamos a activar la oferta haciendo clic en “Activar”.
+Una vez que esté correctamente configurado, hacemos clic en "Guardar" para añadir la nueva formación a la oferta. Repetiremos este proceso hasta que hayamos agregado todas las formaciones deseadas a la oferta. Luego, procedemos a activar la oferta haciendo clic en "Activar". Esta acción bloqueará la oferta para que no se pueda modificar, asegurando así la coherencia de los datos que se presentarán al cliente.
 
 ![9.png](/.attachments/9-68727fc0-1e66-4d2e-a6d2-372fdb0c8279.png)
 
-Si es necesario realizar nuevas versiones de la oferta, no se creará una nueva oferta tal y como se hace la primera. Para estos casos, dentro de la última oferta que hemos editado hacemos clic en el botón “Revisar”. Esto generará una nueva oferta con los datos de la anterior sobre la que haremos las modificaciones necesarias y, la oferta que hemos desechado se inactivará.
+Si es necesario generar nuevas versiones de la oferta, no se creará una nueva oferta desde cero como en el primer caso. En su lugar, dentro de la última oferta editada, hacemos clic en el botón "Revisar". Esto generará una nueva oferta con los datos de la anterior, sobre la cual realizaremos las modificaciones necesarias. La oferta que hemos descartado se inactivará automáticamente. De esta manera, mantenemos un seguimiento claro de los entregables y cambios realizados en los presupuestos para una misma oportunidad.
 
 ![10.png](/.attachments/10-b4256f6d-ad26-4463-ba1a-a4504761c167.png)
 
