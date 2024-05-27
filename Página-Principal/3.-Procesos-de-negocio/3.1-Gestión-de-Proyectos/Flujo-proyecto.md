@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 Para la gestión de los proyectos, se utilizará el flujo estándar de oportunidad que ofrece Dynamics 365, con las personalizaciones necesarias para adaptarlo al proceso actual de Inserta.
 
 Este flujo puede iniciarse al dar de alta un nuevo cliente potencial, o bien crear una nueva oportunidad con una cuenta existente en el sistema.
