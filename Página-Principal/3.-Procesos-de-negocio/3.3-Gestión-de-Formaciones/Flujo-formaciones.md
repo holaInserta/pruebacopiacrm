@@ -66,7 +66,9 @@ Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". E
 
 ![9.png](/.attachments/9-0210d476-e09c-42b1-bac2-3f60b95c464c.png)
 
-Una vez hemos generado la oportunidad, continuaremos con el proceso de la misma manera que al calificar el cliente potencial
+Una vez hemos generado la oportunidad, continuaremos con el proceso de la misma manera que al calificar el cliente potencial.
+Al ganar la oportunidad de tipo "Formación", se generará automáticamente un evento en el sistema para su gestión y configuración posterior.
+NOTA: Revisar el apartado [3.5 Gestión de eventos](/Página-Principal/3.-Procesos-de-negocio/3.5-Gestión-de-eventos)
 
 
 
