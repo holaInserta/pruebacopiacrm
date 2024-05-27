@@ -75,7 +75,7 @@ Para crear una nueva oportunidad, hacemos clic en “Crear Oportunidad”, de es
 
 ![8.png](/.attachments/8-500abaeb-73a4-401e-989b-46ac201be984.png)
 
-Para hacerlo desde el panel general de oportunidades, hacemos clic en “Nuevo”, esto abrirá un formulario de oportunidad, donde tendremos que informar la cuenta a la que queremos relacionar la nueva oportunidad.
+Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". Esto abrirá un formulario de oportunidad en el que tendremos que completar la información requerida, como la cuenta a la que queremos relacionar la nueva oportunidad, junto con los campos "Tipo de oportunidad", "Tema" y "Plazo de presentación".
 
 ![9.png](/.attachments/9-0210d476-e09c-42b1-bac2-3f60b95c464c.png)
 
