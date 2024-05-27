@@ -32,7 +32,7 @@ Desde este formulario, en la vista de Productos de la oferta, podremos añadir l
 
 Esto abrirá un formulario para agregar los productos, en este caso de tipo "formación", a la oferta. En este formulario, deberemos seleccionar la formación que se desea añadir y configurar tanto el precio unitario como la cantidad a incorporar, ya que, dependiendo de la oportunidad en la que nos encontremos, la formación o formaciones pueden tener importes variables.
 
-NOTA: Para crear nuevas formaciones ir a [3.6 Gestión de cargos](/Página-Principal/3.-Procesos-de-negocio/3.6-Gestión-de-cargos)
+NOTA: Para crear nuevas formaciones ir a [3.6 Gestión de cargos](/Página-Principal/3.-Procesos-de-negocio/3.6-Gestión-de-productos)
 
 ![6.png](/.attachments/6-54c3847d-8440-422f-bfa2-433b71d3dd94.png)
 
