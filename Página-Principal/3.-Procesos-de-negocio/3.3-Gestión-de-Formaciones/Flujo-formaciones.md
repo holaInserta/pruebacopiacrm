@@ -1,3 +1,6 @@
+[[_TOC_]]
+
+
 Para la gestión de las formaciones, se utilizará el flujo estándar de oportunidad que ofrece Dynamics 365, con las personalizaciones necesarias para adaptarlo al proceso actual de Inserta.
 
 Este flujo puede iniciarse al dar de alta un nuevo cliente potencial, o bien crear una nueva oportunidad con una cuenta existente en el sistema.
@@ -9,11 +12,11 @@ Para generar un nuevo cliente potencial, desde la vista principal de clientes po
 
 ![1.png](/.attachments/1-091268bb-6890-4c9b-8a08-7492f31d477f.png)
 
-Una vez nos hemos asegurado de que todos los datos están correctos, hacemos clic en “Calificar”, lo que generará la oportunidad.
+Una vez verificados todos los datos, haremos clic en "Calificar" para generar la oportunidad. Es fundamental asegurarse de que el lead no provenga de un cliente o financiador existente. Si este es el caso, antes de calificar el lead, debemos indicar a qué cliente está relacionado en el formulario correspondiente.
 
 ![2.png](/.attachments/2-d0a47773-5a02-4ee4-a700-e8b52ea4698f.png)
 
-Al calificar el cliente potencial, se abrirá la nueva oportunidad creada, a la que se relaciona la nueva cuenta que también se genera al calificar el cliente potencial. En este momento, se tendrá que informar el tipo de oportunidad, que para este caso será "Formación". También podemos informar otros datos, como el plazo de presentación o indicar el importe de los fondos propios en casi que se marque a Si
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Formación", y también el "tema" y "Plazo de presentación" correspondiente.
 
 ![3.png](/.attachments/3-65872613-fa7c-4fb9-890b-6ee39204903e.png)
 
