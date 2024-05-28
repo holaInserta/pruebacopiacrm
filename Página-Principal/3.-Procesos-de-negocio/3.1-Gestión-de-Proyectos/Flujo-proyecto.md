@@ -18,9 +18,9 @@ Una vez verificados todos los datos, haremos clic en "Calificar" para generar la
 
 ![2.png](/.attachments/2-ad7ee483-f5a5-4b38-ba85-e30d74608b29.png)
 
-Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "tema" y "Plazo de presentación" correspondiente.
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "asunto" y "Plazo presentación" correspondiente.
 
-![3.png](/.attachments/3-101798c1-f403-4d6a-b58d-68882475e6dc.png)
+![image.png](/.attachments/image-f32390bc-96b0-4866-bee6-378d1cd341be.png)
 
 Una vez que guardemos la información, al tratarse de una oportunidad de tipo "Proyecto", se habilitará y mostrará un proceso de negocio personalizado para Inserta, con las respectivas etapas definidas. Cabe destacar que este proceso de negocio solo se muestra para oportunidades de este tipo.
 
