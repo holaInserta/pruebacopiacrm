@@ -16,7 +16,7 @@ Una vez verificados todos los datos, haremos clic en "Calificar" para generar la
 
 ![2.png](/.attachments/2-d0a47773-5a02-4ee4-a700-e8b52ea4698f.png)
 
-Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Formación", y también el "tema" correspondiente.
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Formación", y también el "Asunto" correspondiente.
 
 ![image.png](/.attachments/image-d40cbdf7-53dc-4a12-a756-b2ac4a1f63bd.png)
 
@@ -64,7 +64,7 @@ Para crear una nueva oportunidad, simplemente hacemos clic en “Crear Oportunid
 
 ![image.png](/.attachments/image-43864111-68ac-49af-9571-0a69592bad7b.png)
 
-Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". Esto abrirá un formulario de oportunidad en el que tendremos que completar la información requerida, como la cuenta a la que queremos relacionar la nueva oportunidad, junto con los campos "Tipo de oportunidad" y "Tema".
+Para hacerlo desde el panel general de oportunidades, hacemos clic en "Nuevo". Esto abrirá un formulario de oportunidad en el que tendremos que completar la información requerida, como la cuenta a la que queremos relacionar la nueva oportunidad, junto con los campos "Tipo de oportunidad" y "Asunto".
 
 ![9.png](/.attachments/9-0210d476-e09c-42b1-bac2-3f60b95c464c.png)
 
