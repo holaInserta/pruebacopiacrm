@@ -18,7 +18,7 @@ Una vez verificados todos los datos, haremos clic en "Calificar" para generar la
 
 ![2.png](/.attachments/2-ad7ee483-f5a5-4b38-ba85-e30d74608b29.png)
 
-Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "asunto" y "Plazo presentación" correspondiente.
+Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "Asunto" y "Plazo presentación" correspondiente.
 
 ![image.png](/.attachments/image-f32390bc-96b0-4866-bee6-378d1cd341be.png)
 
@@ -30,7 +30,7 @@ En este punto, se puede subir la documentación necesaria en la pestaña "Docume
 
 De este modo, por un lado, actualizamos la fase de la oportunidad a "Decisión", etapa en la que Francisco revisará la oportunidad y por otro lado, al marcar "Sí" en el campo "Evaluar idoneidad", se enviará un correo electrónico a Francisco con el enlace a la oportunidad para su revisión.
 
-![image.png](/.attachments/image-9567df9c-8f5b-42ac-b6cd-6d2a1ac9c24d.png)
+![image.png](/.attachments/image-a7872d0d-2897-4fed-aa25-cd13415d6342.png)
 
 Una vez que Francisco haya revisado la oportunidad, deberá completar los campos "Situación actual", "Necesidad del cliente", "Solución propuesta" y "Decidir si proceder o no proceder". En caso de ser favorable a la creación del presupuesto, el campo "Decidir si proceder o no proceder" deberá marcarse como "Sí". Como en la fase de Inicio, Francisco deberá llenar estos campos y avanzar el proceso a la fase de Gestión.
 
@@ -38,7 +38,7 @@ De este modo, se actualizará la fase de la oportunidad a "Gestión", etapa en l
 
 ![image.png](/.attachments/image-d29c79ea-b232-4995-af64-492a41310732.png)
 
-![4.png](/.attachments/4-1357d14f-181a-4c2c-86ab-fd4a800ff5ab.png)
+NOTA: Los campos también se encuentran en el formulario
 
 Para elaborar la propuesta, el equipo técnico tendrá que generar una oferta, desde la pestaña “Ofertas” en el formulario de la oportunidad, se verá una vista con las ofertas generadas. Para generar la primera oferta, haremos clic en “Crear Oferta”.
 
