@@ -14,6 +14,8 @@ Para generar un nuevo cliente potencial, desde la vista principal de clientes po
 
 Una vez verificados todos los datos, haremos clic en "Calificar" para generar la oportunidad. Es fundamental asegurarse de que el lead no provenga de un cliente o financiador existente. Si este es el caso, antes de calificar el lead, debemos indicar a qué cliente está relacionado en el formulario correspondiente.
 
+![image.png](/.attachments/image-1f24e968-6c6e-4249-a07d-bccd730bfab2.png)
+
 ![2.png](/.attachments/2-ad7ee483-f5a5-4b38-ba85-e30d74608b29.png)
 
 Al calificar el cliente potencial, se abrirá una nueva oportunidad vinculada a una nueva cuenta, a menos que se haya especificado un cliente existente en el formulario del lead. En ese momento, será necesario indicar el tipo de oportunidad, que en este caso será "Proyecto", y también el "tema" y "Plazo de presentación" correspondiente.
