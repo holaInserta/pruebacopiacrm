@@ -11,9 +11,13 @@ Las plantillas configuradas son las siguientes:
 **Inserta - Fase 2**
 - Descripción: Se envía un correo a Francisco para la revisión de la oportunidad.
 
+![image.png](/.attachments/image-25fb1114-b4b2-425e-aff0-6f1ca2914926.png)
+
 **Inserta - Fase 3**
 
 - Descripción: Se envía un correo al equipo técnico para que generen el presupuesto.
+
+![image.png](/.attachments/image-3b022392-db64-4eb3-bd96-0f0a5632477b.png)
 
 # Para la entidad Oferta:
 
@@ -21,9 +25,12 @@ Las plantillas configuradas son las siguientes:
 
 - Descripción: Se envía un correo informativo sobre la fecha fin del proyecto, basado en los días configurados en la entidad "Parámetros de Aplicación".
 
+![image.png](/.attachments/image-3e991188-744c-4017-86cd-81a58fc570d5.png)
+
 **Inserta - Fecha de justificación**
 
 - Descripción: Se envía un correo informativo sobre la fecha de justificación, basado en los días configurados en la entidad "Parámetros de Aplicación".
 
+![image.png](/.attachments/image-7547f513-b3fe-4b2c-83fc-56b50c487971.png)
 
 Estas configuraciones aseguran que el flujo de trabajo se mantenga eficiente y actualizado con facilidad, mejorando así la comunicación y gestión de proyectos en Inserta.
