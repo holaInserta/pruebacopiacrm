@@ -66,8 +66,6 @@ Si es necesario generar nuevas versiones de la oferta, no se creará una nueva o
 
 ![10.png](/.attachments/10-a2e07c05-335c-4408-b6df-5e30d032e534.png)
 
-**Cuando se establece el % de subvención aceptada, se deberá adaptar el presupuesto, que se realizará también mediante el botón “Revisar” de la oferta.**
-
 Por último, se han implementado dos proceso automatizado de notificación por correo electrónico, cuyo periodo de aviso está parametrizado para que pueda ajustarse en el futuro si es necesario, actualmente establecido en 2 meses y 1 mes respectivamente. El primer proceso informará al equipo de proyectos y administración sobre la fecha de finalización de la ejecución y el nombre del proyecto, lo que les brindará tiempo suficiente para revisar los objetivos a cumplir, el presupuesto y otros aspectos relevantes. Este enfoque está especialmente dirigido a la fase de revisión final del proyecto. 
 NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicación"
 
@@ -79,6 +77,7 @@ NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicaci
 
 ![2.png](/.attachments/2-4876fcdf-6333-4c88-8c60-2781dfa579c3.png)
 
+Para modificar las plantillas de correo electronico, véase [Plantillas de correo electrónico (Proyectos)](/Página-Principal/3.-Procesos-de-negocio/3.1-Gestión-de-Proyectos/Plantillas-de-correo-electrónico-\(Proyectos\))
 ## **Desde cuenta**
 Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
 
