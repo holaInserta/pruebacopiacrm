@@ -73,11 +73,16 @@ NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicaci
 
 El segundo proceso enviará una notificación cuando quede 1 mes para cumplir la fecha de justificación del proyecto.
 
-NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicación"
-
 ![2.png](/.attachments/2-4876fcdf-6333-4c88-8c60-2781dfa579c3.png)
 
-Para modificar las plantillas de correo electronico, véase [Plantillas de correo electrónico (Proyectos)](/Página-Principal/3.-Procesos-de-negocio/3.1-Gestión-de-Proyectos/Plantillas-de-correo-electrónico-\(Proyectos\))
+NOTA: El campo parametrizado se encuentra en la entidad "Parámetros de Aplicación". Podréis acceder en "Configuración de la aplicación > Parametrós de aplicación" en el Sitemap.
+
+![image.png](/.attachments/image-fe63e7d8-fa5c-4ea3-901e-de93431faf48.png)
+
+![image.png](/.attachments/image-57fe378f-37d6-47ac-a971-187fd83f94de.png)
+
+Para modificar las plantillas de correo electrónico, mirar página [Plantillas de correo electrónico (Proyectos)](/Página-Principal/3.-Procesos-de-negocio/3.1-Gestión-de-Proyectos/Plantillas-de-correo-electrónico-\(Proyectos\))
+
 ## **Desde cuenta**
 Para dar de alta una nueva oportunidad asociada a una cuenta que ya tenemos dada de alta, podremos hacerlo desde la propia cuenta a la que queremos generar la oportunidad, o desde el panel de oportunidades.
 
