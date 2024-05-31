@@ -13,11 +13,18 @@ Las plantillas configuradas son las siguientes:
 
 ![image.png](/.attachments/image-25fb1114-b4b2-425e-aff0-6f1ca2914926.png)
 
+Es importante conservar la configuración del vinculo del registro, para esto la configuración del protocolo será **Otro** y el valor de url será **[[urlRecord]]** como se observa en la imagen.
+![image.png](/.attachments/image-0e3c39a4-135c-42d3-8832-9246a7b0db96.png)
+
+
 **Inserta - Fase 3**
 
 - Descripción: Se envía un correo al equipo técnico para que generen el presupuesto.
 
 ![image.png](/.attachments/image-3b022392-db64-4eb3-bd96-0f0a5632477b.png)
+
+Es importante conservar la configuración del vinculo del registro, para esto la configuración del protocolo será **Otro** y el valor de url será **[[urlRecord]]** como se observa en la imagen.
+![image.png](/.attachments/image-0e3c39a4-135c-42d3-8832-9246a7b0db96.png)
 
 # Para la entidad Oferta:
 
@@ -27,10 +34,14 @@ Las plantillas configuradas son las siguientes:
 
 ![image.png](/.attachments/image-3e991188-744c-4017-86cd-81a58fc570d5.png)
 
+Adicional al tema del vinculo, es importante mantener las variables @diasFin para el asunto y cuerpo de la plantilla, este valor se busca por los procesos automáticos de generación de correo electrónico para reemplazar el valor por el cálculado.
+
 **Inserta - Fecha de justificación**
 
 - Descripción: Se envía un correo informativo sobre la fecha de justificación, basado en los días configurados en la entidad "Parámetros de Aplicación".
 
 ![image.png](/.attachments/image-7547f513-b3fe-4b2c-83fc-56b50c487971.png)
+
+Adicional al tema del vinculo, es importante mantener las variables @diasJustificacion para el asunto y cuerpo de la plantilla, este valor se busca por los procesos automáticos de generación de correo electrónico para reemplazar el valor por el cálculado.
 
 Estas configuraciones aseguran que el flujo de trabajo se mantenga eficiente y actualizado con facilidad, mejorando así la comunicación y gestión de proyectos en Inserta.
