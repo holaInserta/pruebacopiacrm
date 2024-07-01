@@ -13,7 +13,7 @@
 |--|--|--|
 | Francisco Maya | Administrador del sistema + FundraisingandEngagement: System Admministrator | Rol estándar |
 | Francisco Lupiañez Garcia | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
-| Alberto Luis Medina Barceló | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
+| Alberto Luis Medina Barceló | Administrador del sistema + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
 | Abderrahman Perez El Arabi | Vice President of Sales + FundraisingandEngagement: Fundraiser Administrator | Rol estándar con personalización de permisos |
 
 ## Fundraising and Engagement
